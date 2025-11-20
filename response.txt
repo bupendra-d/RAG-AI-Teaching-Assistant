@@ -1,0 +1,7 @@
+The concept of semantic tags is covered in Video 11 of Sigma Web Development course.
+
+Semantic tags are explained from around 40 seconds onwards in this video. The instructor briefly introduces them and then delves deeper into their explanation, starting from approximately 56 seconds.
+
+Later on, they elaborate further on the usage of semantic tags (starting at 244 seconds) to explain what makes them meaningful.
+
+If you're interested in learning more about semantic tags for web development, I recommend checking out Video 11.

@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# RAG project
+uploads/
+embeddings/
+videos/
+audios/
+*.mp4
+*.wav
+*.mp3
+*.joblib
+*.json
+output.json
+
+# Temporary files
+whisper/
+whisper_outputs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

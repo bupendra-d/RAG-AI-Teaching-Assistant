@@ -1,0 +1,6 @@
+Im teaching web developemt in Sigma Web development course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"Semantic Tags in HTML","number":"11","start":257.12,"end":258.32,"text":" What are semantic tags?"},{"title":"Semantic Tags in HTML","number":"11","start":40.24,"end":43.44,"text":" So guys, I would like to tell you what are Semantic Tags?"},{"title":"Semantic Tags in HTML","number":"11","start":56.56,"end":59.76,"text":" To explain a little, I will tell you what are Semantic Tags?"},{"title":"Semantic Tags in HTML","number":"11","start":244.08,"end":245.44,"text":" Using semantic tags."},{"title":"Semantic Tags in HTML","number":"11","start":539.44,"end":541.44,"text":" That's why semantic tags are made."}]
+-----------------------------------------
+"where is semantic tags taught in this course?"
+User asked this question related to video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video at what timestamp) and guide the user to go that particulr video. If user asks unrelated question, tell him that you can only answer questions related to the course
