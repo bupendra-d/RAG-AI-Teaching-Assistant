@@ -1,0 +1,36 @@
+🧩 Requirements:
+Before running the pipeline, make sure the following are installed on your system:
+
+
+🔧 System Requirements
+Windows / macOS / Linux
+Python 3.10+
+FFmpeg (required for converting videos → MP3)
+Check if installed:
+ffmpeg -version
+If not installed → download from: FFmpeg official website
+
+
+📦 Python Libraries
+All Python dependencies are included in requirements.txt.
+
+Install using:
+pip install -r requirements.txt
+
+Common libraries used in this project:
+whisper (OpenAI Whisper for transcription)
+pydub (audio processing)
+sentence-transformers (embedding generation)
+pandas (DataFrame processing)
+joblib (saving vector stores)
+numpy (chunking & preprocessing)
+faiss-cpu (optional: for similarity search)
+
+
+
+💾 Folders Required (auto-generated if not present)
+Your project should have:
+videos/       → store input lecture videos
+mp3/          → generated audio files
+json/         → transcripts
+data/         → embeddings + vector files
