@@ -1,4 +1,4 @@
-## 📚 RAG-AI Teaching Assistant:
+## 📚 RAG Based AI Teaching Assistant:
 # A Retrieval-Augmented Generation system that turns your own lecture videos into a personalized AI tutor.
 
 
@@ -18,28 +18,8 @@
 🛠️ Easy to extend or plug into your app
 
 
-│
-├── video_to_mp3.py          # Convert videos → MP3
-|
-├── mp3_to_json.py           # Convert MP3 → JSON transcript
-|
-├── preprocess_json.py       # Create embeddings + save vector store
-|
-├── process_incoming.py      # Takes user query → returns AI answer
-│
-├── videos/                  # Place raw lecture videos here
-|
-├── mp3/                     # Auto-generated MP3 outputs
-|
-├── json/                    # Auto-generated transcripts
-|
-├── data/                    # Embeddings, vector store, joblib files
-│
-└── Readme.md                # Documentation (this file)
-
-
 ## 📂 Project Structure:
-# RAG-AI-Teaching-Assistant:
+# RAG Based AI-Teaching-Assistant:
 (1) video_to_mp3.py - Convert videos → MP3;
 
 (2) mp3_to_json.py - Convert MP3 → JSON transcript;
