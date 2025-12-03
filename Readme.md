@@ -21,13 +21,21 @@
 ## 📂 Project Structure:
 # RAG-AI-Teaching-Assistant:
 (1) video_to_mp3.py - Convert videos → MP3;
+
 (2) mp3_to_json.py - Convert MP3 → JSON transcript;
+
 (3) preprocess_json.py - Create embeddings + save vector store;
+
 (4) process_incoming.py - Takes user query → returns AI answer;
+
 (5) videos - Place raw lecture videos here;
+
 (6) mp3 - Auto-generated MP3 outputs;
+
 (7) json - Auto-generated transcripts;
+
 (8) data - Embeddings, vector store, joblib files;
+
 (9) Readme.md - Documentation (this file).
 
 
